@@ -45,7 +45,7 @@ body{
     justify-content: space-between;
     height: 100vh;
 }
-/*estilo de botones y formulario*/
+
 input, button{
     padding: 10px;
     margin: 5px 0;
@@ -61,7 +61,7 @@ button{
 button{
     background-color: #920356;
 }
-/*enlaces*/
+
 a{
     color: #f589e6;
     text-decoration: none;
